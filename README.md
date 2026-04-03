@@ -1,6 +1,6 @@
 # PROGETTO LNSM
 
-## OBUETTIVO
+## OBIETTIVO
 
 Il progetto ha lo scopo di valutare le prestazioni di diversi metodi di localizzazione 2D basati su misure TDOA (Time Difference of Arrival) e AOA (Angle of Arrival).
 L’analisi è condotta attraverso simulazioni che impiegano un Extended Kalman Filter (EKF) con modello di moto Nearly Constant Velocity (NCV), considerando diversi dataset e condizioni di rumore.
